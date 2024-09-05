@@ -1,0 +1,171 @@
+/* Reset some default browser styling */
+body, h1, h2, p, ul {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Arial, sans-serif;
+}
+
+/* Navbar styling */
+#navbar {
+    background-color: #333;
+    color: #fff;
+    padding: 10px 0;
+    text-align: center;
+}
+
+nav ul {
+    list-style: none;
+    display: flex;
+    justify-content: center;
+}
+
+nav ul li {
+    margin: 0 20px;
+}
+
+nav ul li a {
+    color: #fff;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+nav ul li a:hover {
+    color: #ffa500;
+}
+
+/* Welcome section styling */
+#welcome-section {
+  color: #343131;
+  text-align: center;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100px;
+  background: linear-gradient(70deg, rgb(123, 119, 119), white);
+}
+
+#projects h2 {
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 10px;    
+}
+
+.container {
+    display: flex;
+    flex-wrap: wrap;
+    align-content: flex-start;
+    justify-content: center;
+}
+
+.project {
+    margin:10px;
+    width: 320px;
+    height: 230px;
+    background: linear-gradient(46deg, rgb(111, 105, 105), rgb(215, 205, 205));
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.project p {
+  text-align: center;
+  color: #fff;
+  margin: auto;
+  align-content: center;
+  justify-content: center;
+}
+
+.about {
+    background-color: #fff;
+    padding: 20px;
+    margin: 20px auto;
+    max-width: 800px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.a-cont {
+    text-align: center;
+}
+
+
+.a-cont p {
+    margin-bottom: 20px;
+    font-size: 1.1em;
+    line-height: 1.8;
+    text-align: left;
+}
+
+.a-cont h4 {
+    font-weight: normal;
+}
+
+.profile-photo {
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    margin-bottom: 20px;
+}
+
+img {
+    width: 311px;
+    height: 200px;
+    margin: auto;
+
+}
+
+/* Contact section styling */
+.contact {
+    background-color: #fff;
+    padding: 20px;
+    margin: 20px auto;
+    max-width: 800px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    text-align: center;
+}
+
+.c-cont h1 {
+    margin-bottom: 20px;
+}
+
+.contact-info p {
+    font-size: 1.2em;
+    margin: 10px 0;
+}
+
+.contact-info i {
+    margin-right: 10px;
+}
+
+.social-media {
+    margin-top: 30px;
+}
+
+.social-media h2 {
+    margin-bottom: 20px;
+}
+
+.social-media a {
+    display: inline-block;
+    margin: 10px 20px;
+    font-size: 1.5em;
+    color: #333;
+    text-decoration: none;
+}
+
+.social-media a:hover {
+    color: #ffa500;
+}
+
+
+footer {
+    text-align: center;
+    margin-top: 40px;
+}
+
+footer p {
+    color: #777;
+}
