@@ -169,3 +169,13 @@ footer {
 footer p {
     color: #777;
 }
+
+.project a p:hover {
+    color: #e06818;
+    font-weight: bold;
+    
+}
+
+.project a {
+    text-decoration: none;
+}
