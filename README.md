@@ -9,6 +9,8 @@ You can view the live version here: [**Portfolio Website Live Demo**](https://yo
 
 ### 📸 Website Preview
 
+![Screenshot 2024-09-18 140521](https://github.com/user-attachments/assets/159d8276-20a8-4755-bd05-eee59e583459)
+
 ### 🛠️ Built With
 
 - **HTML5**: Used for structuring content and elements.
