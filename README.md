@@ -5,7 +5,7 @@ Welcome to my **Portfolio Website**! This site was built with **HTML** and **CSS
 
 ### 🌐 Live Demo
 
-You can view the live version here: [**Portfolio Website Live Demo**](https://yourwebsite.com)
+You can view the live version here: [**Portfolio Website Live Demo**](https://daitamonk.github.io/Alvins-portfolio-website/index.html)
 
 ### 📸 Website Preview
 
@@ -64,7 +64,7 @@ The website showcases the following types of projects:
 **Alvin Momoh**
 
 - GitHub: [Alvin](https://github.com/DaitaMonk?tab=repositories)
-- Portfolio: [Portfolio](https://alvinmomoh.com)
+- Portfolio: [Portfolio](https://daitamonk.github.io/Alvins-portfolio-website/index.html)
 
 ### 🤝 Contributing
 
