@@ -5,9 +5,11 @@ Welcome to my **Portfolio Website**! This site was built with **HTML** and **CSS
 
 ### 🌐 Live Demo
 
-You can view the live version here: [**Portfolio Website Live Demo**](https://yourwebsite.com)
+You can view the live version here: [**Portfolio Website Live Demo**](https://daitamonk.github.io/Alvins-portfolio-website/index.html)
 
 ### 📸 Website Preview
+
+![Screenshot 2024-09-18 140521](https://github.com/user-attachments/assets/159d8276-20a8-4755-bd05-eee59e583459)
 
 ### 🛠️ Built With
 
@@ -62,7 +64,7 @@ The website showcases the following types of projects:
 **Alvin Momoh**
 
 - GitHub: [Alvin](https://github.com/DaitaMonk?tab=repositories)
-- Portfolio: [Portfolio](https://alvinmomoh.com)
+- Portfolio: [Portfolio](https://daitamonk.github.io/Alvins-portfolio-website/index.html)
 
 ### 🤝 Contributing
 
